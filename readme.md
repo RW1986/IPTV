@@ -15,8 +15,8 @@ No. Full credit for the grabbing of all the streams and EPG data goes to @matthu
 You can use these channels by adding the following URL's to pretty much any IPTV app, including the likes of Kodi, Emby, etc. I won't list a 'how-to' here since there are so many different apps available, but you can find walkthrough's for almost all apps by just Google searching for your app of choice with the search term 'setup' added.
 
 ### Links
-* **M3U:** Coming soon...
-* **EPG:** Coming soon...
+* **M3U:** http://shorturl.at/bP134
+* **EPG:** http://shorturl.at/nxFMQ
 
 ### Current channel lineup
 **Entertainment**
