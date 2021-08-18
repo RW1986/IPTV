@@ -2,7 +2,7 @@
 ## An extensive, curated and legal IPTV list
 
 ### What is this?
-This is a curated list of **free and legal** streams from various IPTV services. The current list of IPTV services that are included is:
+This is a curated list of **free and legal** streams from various IPTV services. The current list of IPTV services that are included are:
 * Pluto.tv
 * STIRR
 * PLEX
@@ -15,8 +15,8 @@ No. Full credit for the grabbing of all the streams and EPG data goes to @matthu
 You can use these channels by adding the following URL's to pretty much any IPTV app, including the likes of Kodi, Emby, etc. I won't list a 'how-to' here since there are so many different apps available, but you can find walkthrough's for almost all apps by just Google searching for your app of choice with the search term 'setup' added.
 
 ### Links
-**M3U:** Coming soon...
-**EPG:** Coming soon...
+* **M3U:** Coming soon...
+* **EPG:** Coming soon...
 
 ### Current channel lineup
 Coming soon...
