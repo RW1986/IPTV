@@ -1,0 +1,17 @@
+# CHANGELOG
+
+============================================
+
++ indicates a channel addition
+- indicates a channel removal
+
+============================================
+
+~ 26th August, 2021
++ CBSN Baltimore (News)
++ Dr. G: Medical Examiner (Documentaries)
++ Just for Laughs (Entertainment)
++ Portlandia (TV Shows)
++ STIRR Classic TV (Entertainment)
++ STIRR Reality TV (Entertainment)
++ The Dick Cavett Show (TV Shows)
