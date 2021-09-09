@@ -1,13 +1,30 @@
 # CHANGELOG
 
-============================================
+==========================================
 
 + indicates a channel addition
 - indicates a channel removal
 
-============================================
+==========================================
 
-~ 26th August, 2021
+# 9th September, 2021
+
++ A8 Esports (Gaming)
++ Black Belt TV (Sport)
++ STIRR P.D. (Entertainment)
++ The Tim Conway Show (TV Shows)
++ Volty TV (Sport)
+
+- IMPACT Wrestling 2 (Sport) [Duplicate of IMPACT Wrestling 1]
+- PeopleTV 2 (Entertainment) [Duplicate of PeopleTV 1]
+
+~ IMPACT Wrestling 1 > IMPACT Wrestling (Sport) [Renamed]
+~ PeopleTV 1 > PeopleTV (Entertainment) [Renamed]
+
+==========================================
+
+# 26th August, 2021
+
 + CBSN Baltimore (News)
 + Dr. G: Medical Examiner (Documentaries)
 + Just for Laughs (Entertainment)
